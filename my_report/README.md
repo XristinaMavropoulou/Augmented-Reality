@@ -2,7 +2,7 @@
 
 ### First and Last Name: MAVROPOULOU XRISTINA
 ### University Registration Number: dpsd19073
-### GitHub Personal Profile: XristinaMavropoulou
+### GitHub Personal Profile: https://github.com/XristinaMavropoulou
 ### Augmented Reality Personal Repository: https://xristinamavropoulou.github.io/Augmented-Reality/
 
 # Introduction
