@@ -20,6 +20,7 @@
 
 # 2nd Deliverable
 
+Για το δευτερο παραδοτεο κατεβασα το zip αρχείο και ξεκινήσα την επεξεργασία. Πρώτα εφτιαξα το marker με το dpsd μου στο https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html έκανα λήψη την φωτογραφία και το αρχείο και τα μετέφερα στο φακελο του assets και τα ανέβασα και στο github μαζί με την φωτογραφια μου. Επειδη δεν ξερω να κανω animation βρηκα ετοιμα gltf models για να τα βαλω μεσα στον κωδικα στη μορφη του υδρογονου και του οξυγωνου.
 
 # 3rd Deliverable 
 
