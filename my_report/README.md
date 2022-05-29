@@ -24,6 +24,7 @@
 
 # 3rd Deliverable 
 
+Για το τριτο παραδοτεο πρωτα έψαξα και κατέβασα το COLLOSEO  σε .gltf αρχείο από αυτό τον ιστοτοπο  https://sketchfab.com/feed. Τις γεωγραφικές συντεταγμένες του της βρηκα απ'το Google. Αυτα εδω , https://aframe.io/blog/arjs3/  , https://aframe.io/docs/1.3.0/components/text.html#fonts2_kelsonsansτα , χρησιμοποιησα για να φτιαξω το κειμενακι που θα εμφανιζεται πανω απο το 3D μοντελο λεγοντας , Buongiorno !
 
 # Conclusions
 
