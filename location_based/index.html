@@ -39,23 +39,23 @@
             <a-asset-item id="colosseum" src="assets/scene.gltf"></a-asset-item>
         </a-assets>
 	
-<a-entity position="2 0 -60">
+<a-entity position="-60 -6 -60">
             <a-entity src="assets/scene.gltf" 
                       gltf-model="#colosseum" 
                       scale="1 1 1" 
                       class="click" 
                       gps-entity-place="latitude: 41.890251; longitude: 12.492373;" text-show>
                 <a-entity class="clickable"
-                          position="3 5 5"
+                          position="3 5.2 0"
                           rotation="0 30 0"
-                          text="color: #1a750c; font-type: bold; align: center; value: Buongiorno; width:7; heigh:10; letterSpacing: 100;"
+                          text="color: #1a750c; font-type: bold; align: center; value: Buongiorno; width:4; heigh:3; letterSpacing: 10;"
                           visible="false"></a-entity>
             </a-entity>
         </a-entity>
 	
         <a-camera
             rotation-reader
-            gps-camera="simulateLatitude: 41.890251; simulateLongitude: 12.492373;">
+            gps-camera="simulateLatitude:41.890251; simulateLongitude:12.492373;">
 	</a-camera>
 	
 	</a-scene>
